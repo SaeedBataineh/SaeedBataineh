@@ -50,18 +50,8 @@ I am currently seeking opportunities to grow my skills through internships, coll
 
 ## Featured Projects
 
-### Image Captioning Model
-Built an image captioning model using DenseNet201 and LSTM on the Flickr8K dataset.  
-Focused on feature extraction, text preprocessing, and sequence generation.
-
 ### CNN Classifier & Architecture Analysis
 Developed a CNN in PyTorch for multi-class image classification and analyzed architectural choices such as dropout, filters, activations, and pooling.
-
-### Real-Time Object Detection
-Built an SSD300-based object detection model with MobileNetV2 in TensorFlow and compared performance with YOLO variants.
-
-### Predictive Modeling Pipeline
-Created a machine learning pipeline for preprocessing, model training, evaluation, and hyperparameter tuning using Scikit-learn.
 
 ---
 
