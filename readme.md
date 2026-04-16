@@ -50,8 +50,13 @@ I am currently seeking opportunities to grow my skills through internships, coll
 
 ## Featured Projects
 
-### CNN Classifier & Architecture Analysis
-Developed a CNN in PyTorch for multi-class image classification and analyzed architectural choices such as dropout, filters, activations, and pooling.
+### [CNN Classifier & Architecture Analysis](https://github.com/SaeedBataineh/cnn-classifier)
+Built two CNN architectures from scratch in PyTorch and trained them on CIFAR-10. Used forward-hook feature map visualization to diagnose overfitting in the baseline, then drove targeted architectural changes (BatchNorm, mixed pooling, Dropout) that improved validation accuracy from **69.5% → 81.4%** — a +11.9% gain.
+`Python` `PyTorch` `torchvision` `NumPy` `Matplotlib`
+
+### [NLP Sentiment Classifier](https://github.com/SaeedBataineh/nlp-sentiment-classifier)
+Fine-tuned BERT (bert-base-uncased) on 1.6 million tweets from the Sentiment140 dataset for binary sentiment classification, achieving **83–88% validation accuracy**. Implemented the full pipeline from tokenization to inference, with ~50ms per-tweet prediction on GPU.
+`Python` `PyTorch` `Transformers` `BERT` `HuggingFace`
 
 ---
 
